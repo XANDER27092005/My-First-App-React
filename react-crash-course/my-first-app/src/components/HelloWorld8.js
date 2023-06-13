@@ -27,6 +27,6 @@ const HelloWorld8 = (props) => {
  )
 }
 HelloWorld8.defaultProps = {
- name: "Raphael"
+ name: "Iloba"
 }
 export default HelloWorld8;
